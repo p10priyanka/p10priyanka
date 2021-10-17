@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanka
 - 👀 I’m interested in Web Development
-- 🌱 I enjoy coding Html and Css
+- 🌱 I enjoy coding in Html and Css
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me p10priyanka@gmail.com
